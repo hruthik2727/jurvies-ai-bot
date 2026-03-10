@@ -1,0 +1,82 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          🎨 NEW GROK-STYLE UI IS NOW OPEN! 🎨               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+✨ WHAT YOU'LL SEE:
+
+┌─────────────────────────────────────────────────────────────┐
+│  🤖 Jurvies AI                            ● Online          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│                  Hello, I'm Jurvies                         │
+│         Your intelligent AI assistant powered by            │
+│              Google Gemini. Ask me anything!                │
+│                                                             │
+│  ┌──────────────┐  ┌──────────────┐                       │
+│  │ 😄 Tell me a │  │ 🔬 Explain   │                       │
+│  │ joke about AI│  │ quantum...   │                       │
+│  └──────────────┘  └──────────────┘                       │
+│  ┌──────────────┐  ┌──────────────┐                       │
+│  │ ✍️ Write a   │  │ 💡 What can  │                       │
+│  │ haiku...     │  │ you help...  │                       │
+│  └──────────────┘  └──────────────┘                       │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│  Ask Jurvies anything...                              [→]  │
+│  Powered by Gemini 2.5 Flash                               │
+└─────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎨 DESIGN FEATURES:
+
+✅ Pure Black Background - Like Grok/X
+✅ Dark Gray Message Bubbles - Sleek & Modern
+✅ Blue Gradient User Messages - Eye-catching
+✅ Avatars - 👤 for you, 🤖 for AI
+✅ Suggestion Chips - Quick start prompts
+✅ Typing Indicator - Animated dots while thinking
+✅ Smooth Animations - Fade-in effects
+✅ Auto-resize Input - Expands as you type
+✅ Status Badge - Live server status
+✅ Gradient Send Button - Glows on hover
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💬 HOW TO USE:
+
+1. Click any suggestion chip to send that message
+2. Or type your own message in the input box
+3. Press Enter to send (Shift+Enter for new line)
+4. Watch the typing indicator while AI thinks
+5. See the response appear smoothly
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 TRY THESE:
+
+• Click "Tell me a joke about AI" 😄
+• Click "Explain quantum computing" 🔬
+• Click "Write a haiku about coding" ✍️
+• Or ask anything you want!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📂 FILE LOCATIONS:
+
+New Grok Style:
+C:\Users\Hruth\Downloads\jurvies_ai_bot\jurvies_ai_bot\grok_client.html
+
+Original Style:
+C:\Users\Hruth\Downloads\jurvies_ai_bot\jurvies_ai_bot\test_client.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ ENJOY YOUR NEW GROK-STYLE INTERFACE! ✨
+
+The dark theme is easy on the eyes and looks professional.
+Start chatting by clicking a suggestion or typing your message!
+
+🤖 Jurvies is ready to help! 🚀
